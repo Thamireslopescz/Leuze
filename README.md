@@ -2,7 +2,8 @@
 
 Bem-vindo(a) ao portfólio de Leuze Services! Aqui você encontrará uma seleção dos trabalhos de uma cliente versátil, atuante nas áreas de Design de Interiores, Design Gráfico, Web Design e também como estudante de Desenvolvimento Web Full Stack. Este portfólio foi desenvolvido por mim, Thamireslopescz, com o objetivo de destacar os projetos e habilidades de Leuze Services.
 
-![Vídeo sem título - Made with Clipchamp](https://github.com/Thamireslopescz/Leuze/assets/100656019/e7c77ec4-7ad9-49d7-addf-e11f43a62496)
+https://github.com/Thamireslopescz/Leuze/assets/100656019/9e54e324-819b-4e0e-8dc7-81e99a6cfd2c
+
 
 
 ## Sobre Leuze Services
@@ -30,7 +31,7 @@ Leuze Services também está empenhada em se aprimorar como estudante de Desenvo
 Se você está interessado em conhecer mais sobre o trabalho de Leuze Services ou tem alguma pergunta, entre em contato:
 
 - E-mail: [dudaleuze@gmail.com](mailto:dudaleuze@gmail.com)
-- Telefone: [+51 9 9810-0313](tel:+51 9 9810-0313)
+- Telefone: [+51 9 9810-0313](tel:+5199810-0313)
 - Website: [[www.leuzeservices.com](https://leuze-pfknxyhyw-thamireslopescz.vercel.app/?vercelToolbarCode=sg7LRO6YoB7X4gY#inicio)](http://www.leuzeservices.com)
 
 Obrigado por visitar o portfólio de Leuze Services, desenvolvido por Thamireslopescz. Espero que você aprecie o projeto apresentado e que possamos colaborar em futuros trabalhos!
