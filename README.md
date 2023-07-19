@@ -32,6 +32,6 @@ Se você está interessado em conhecer mais sobre o trabalho de Leuze Services o
 
 - E-mail: [dudaleuze@gmail.com](mailto:dudaleuze@gmail.com)
 - Telefone: [+51 9 9810-0313](tel:+5199810-0313)
-- Website: [[www.leuzeservices.com](https://leuze-pfknxyhyw-thamireslopescz.vercel.app/?vercelToolbarCode=sg7LRO6YoB7X4gY#inicio)](http://www.leuzeservices.com)
+- Website: [[www.leuzeservices.com](https://leuze-pfknxyhyw-thamireslopescz.vercel.app/?vercelToolbarCode=sg7LRO6YoB7X4gY#inicio)]
 
 Obrigado por visitar o portfólio de Leuze Services, desenvolvido por Thamireslopescz. Espero que você aprecie o projeto apresentado e que possamos colaborar em futuros trabalhos!
